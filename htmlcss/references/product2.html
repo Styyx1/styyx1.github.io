@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+
+    <!--Website titel eingeben-->
+    <title>navigation</title>
+
+
+    <!--css datei wird hier verlinkt  Pfad einfügen-->
+    <link rel="stylesheet" href="navi.css">
+    <link rel="stylesheet" href="layout.css">
+   
+
+
+  </head>
+
+<body>
+
+  
+    
+  <header>
+  
+    <h1 class="titel">Navigation</h1>
+  
+  </header>
+
+  <nav class="gen-nav" id="gen-nav">
+  <div class="gen-logo"><svg width="36px" height="36px" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:block;opacity:0.85;">
+    <rect width="40" height="40" rx="8" fill="rgba(255,255,255,0.22)"/>
+    <polygon points="20,6 24,15 34,16 27,23 29,33 20,28 11,33 13,23 6,16 16,15" fill="rgba(255,255,255,0.9)"/>
+  </svg></div>
+  <button class="gen-hamburger" id="gen-ham" aria-label="Toggle menu">
+    <span></span><span></span><span></span>
+  </button>
+  <!--das sind die navigationen:-->
+    <ul id="gen-menu"><li>  <a href="index.html"> Home  </a></li>
+    <li>  <a href="#">  Products <span class="gen-arrow">▾  </span></a>
+    <ul><li>  <a href="products1.html"> Products 1  </a></li><li><a href="product2.html">Products 2</a></li></ul>
+    </li><li> <a href="about.html">  About </a></li>
+    <li>  <a href="#">  Services <span class="gen-arrow">▾  </span></a>
+    <ul><li>  <a href="services1.html"> Services 1  </a></li>
+    <li>  <a href="services2.html"> Services 2  </a></li></ul>
+    </li><li> <a href="contact.html">  Contact Us  </a></li></ul>
+</nav>
+
+
+  <main>
+    
+    <h2>
+      Products 2
+    </h2>
+
+    <p>
+      Das sind unsere Tollen Produkte der Kategorie 2
+    </p>
+
+    <p>Die Sonderangebote warten!</p>
+
+    
+
+  </main>
+
+
+  <footer>
+    
+  &copy walcher
+
+  </footer>
+
+
+
+   
+
+    <script>// Mobile menu toggle
+document.getElementById('gen-ham').addEventListener('click', function() {
+  var nav = document.getElementById('gen-nav');
+  var menu = document.getElementById('gen-menu');
+  var isOpen = menu.classList.toggle('open');
+  nav.classList.toggle('mobile-open', isOpen);
+});
+ 
+// Close menu when clicking outside
+document.addEventListener('click', function(e) {
+  var nav = document.getElementById('gen-nav');
+  var menu = document.getElementById('gen-menu');
+  if (!nav.contains(e.target) && menu.classList.contains('open')) {
+    menu.classList.remove('open');
+    nav.classList.remove('mobile-open');
+  }
+});</script>
+</body>
+
+
+</html>

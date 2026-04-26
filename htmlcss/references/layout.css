@@ -1,0 +1,28 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header { 
+    background: #e8b8ff; 
+    padding: 10px;
+}
+
+main { 
+    background: #ffffff; 
+    padding: 10px; 
+}
+
+footer { 
+    background: #a0d7ee; 
+    padding: 10px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.titel {
+    color: #ffffff;
+    text-align: center;
+    font-size: 5em;
+
+}
+
