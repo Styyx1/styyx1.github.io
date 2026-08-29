@@ -1,4 +1,4 @@
-# SKSE Plugins to update
+# SKSE Plugins to update to 1.7+
 
 ## My SKSE Plugins
 
