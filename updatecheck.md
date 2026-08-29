@@ -9,7 +9,7 @@
 - [x] Dungeons are Dangerous
 - [x] Absorb Spell XP Fix
 - [x] Speed of Strolling
-- [ ] Overencumbrance Tweaks
+- [x] Overencumbrance Tweaks
 - [ ] Static Regeneration
 - [ ] Has Magic Effect condition tweak
 - [ ] Adjustable Projectile Speed
