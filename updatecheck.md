@@ -10,8 +10,8 @@
 - [x] Absorb Spell XP Fix
 - [x] Speed of Strolling
 - [x] Overencumbrance Tweaks
-- [ ] Static Regeneration
-- [ ] Has Magic Effect condition tweak
+- [x] Static Regeneration
+- [x] Has Magic Effect condition tweak
 - [ ] Adjustable Projectile Speed
 - [ ] Shades of Mortality
 - [ ] Ring of Sacrifice
