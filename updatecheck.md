@@ -23,7 +23,7 @@
 - [ ] Lurking Menace 
 - [ ] Global Var Framework
 - [ ] Get Actorvalue Percentage - fix
-- [ ] Critical Hit Tweaks
+- [x] Critical Hit Tweaks
 - [ ] Styyx Hit Effects
 - [ ] Effect Animation Framework
 - [ ] Learn Spells from Staves
@@ -37,7 +37,7 @@
 - [ ] Prevent Overabundance of Plunder
 - [x] Invisible Rune Explosion Fix
 - [ ] Mark of Akatosh
-- [ ] Remove Orphaned Hazards
+- [x] Remove Orphaned Hazards
 - [ ] Regen Adjuster
 - [ ] Regular Quicksave
 - [ ] Switch Combat View
