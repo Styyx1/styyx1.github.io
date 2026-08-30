@@ -26,7 +26,7 @@
 - [x] Critical Hit Tweaks
 - [ ] Styyx Hit Effects
 - [ ] Effect Animation Framework
-- [ ] Learn Spells from Staves
+- [x] Learn Spells from Staves
 - [ ] FART
 - [x] Difficulty Global Variable
 - [ ] Resurrection API
