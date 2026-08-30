@@ -35,7 +35,7 @@
 - [ ] Save Restrictions
 - [ ] Stressful Darkness
 - [ ] Prevent Overabundance of Plunder
-- [ ] Invisible Rune Explosion Fix
+- [x] Invisible Rune Explosion Fix
 - [ ] Mark of Akatosh
 - [ ] Remove Orphaned Hazards
 - [ ] Regen Adjuster
