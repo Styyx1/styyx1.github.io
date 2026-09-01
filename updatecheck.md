@@ -15,7 +15,7 @@
 - [x] Adjustable Projectile Speed
 - [ ] Shades of Mortality
 - [ ] Ring of Sacrifice
-- [ ] Container Weight Limit
+- [x] Container Weight Limit
 - [ ] Exhausting Combat
 - [ ] Simple Timed Block
 - [ ] Navigation Restrictions
