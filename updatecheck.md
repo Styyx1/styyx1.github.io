@@ -19,7 +19,7 @@
 - [ ] Exhausting Combat
 - [ ] Simple Timed Block
 - [ ] Navigation Restrictions
-- [ ] Styyx Inventory Limits
+- [x] Styyx Inventory Limits
 - [ ] Lurking Menace 
 - [ ] Global Var Framework
 - [x] Get Actorvalue Percentage - fix
