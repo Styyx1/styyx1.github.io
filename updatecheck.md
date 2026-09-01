@@ -12,7 +12,7 @@
 - [x] Overencumbrance Tweaks
 - [x] Static Regeneration
 - [x] Has Magic Effect condition tweak
-- [ ] Adjustable Projectile Speed
+- [x] Adjustable Projectile Speed
 - [ ] Shades of Mortality
 - [ ] Ring of Sacrifice
 - [ ] Container Weight Limit
@@ -31,7 +31,7 @@
 - [x] Difficulty Global Variable
 - [ ] Resurrection API
 - [ ] sTweaks
-- [ ] Bows Can Break
+- [x] Bows Can Break
 - [ ] Save Restrictions
 - [ ] Stressful Darkness
 - [ ] Prevent Overabundance of Plunder
