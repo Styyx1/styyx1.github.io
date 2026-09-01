@@ -22,7 +22,7 @@
 - [ ] Styyx Inventory Limits
 - [ ] Lurking Menace 
 - [ ] Global Var Framework
-- [ ] Get Actorvalue Percentage - fix
+- [x] Get Actorvalue Percentage - fix
 - [x] Critical Hit Tweaks
 - [ ] Styyx Hit Effects
 - [ ] Effect Animation Framework
