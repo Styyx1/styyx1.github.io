@@ -16,7 +16,7 @@
 - [ ] Shades of Mortality
 - [ ] Ring of Sacrifice
 - [x] Container Weight Limit
-- [ ] Exhausting Combat
+- [x] Exhausting Combat
 - [ ] Simple Timed Block
 - [ ] Navigation Restrictions
 - [x] Styyx Inventory Limits
