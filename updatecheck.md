@@ -21,7 +21,7 @@
 - [ ] Navigation Restrictions
 - [x] Styyx Inventory Limits
 - [ ] Lurking Menace 
-- [ ] Global Var Framework
+- [x] Global Var Framework
 - [x] Get Actorvalue Percentage - fix
 - [x] Critical Hit Tweaks
 - [ ] Styyx Hit Effects
