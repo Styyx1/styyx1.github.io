@@ -24,7 +24,7 @@
 - [x] Global Var Framework
 - [x] Get Actorvalue Percentage - fix
 - [x] Critical Hit Tweaks
-- [ ] Styyx Hit Effects
+- [x] Styyx Hit Effects
 - [ ] Effect Animation Framework
 - [x] Learn Spells from Staves
 - [ ] FART
