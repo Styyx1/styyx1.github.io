@@ -47,5 +47,5 @@
 
 - [ ] Stages of Suffering
 - [ ] Paragon
-- [ ] Stances NG
+- [x] Stances NG
 - [x] Dynamic Activation Key
