@@ -39,7 +39,7 @@
 - [ ] Mark of Akatosh
 - [x] Remove Orphaned Hazards
 - [ ] Regen Adjuster
-- [ ] Regular Quicksave
+- [x] Regular Quicksave
 - [ ] Switch Combat View
 - [ ] Show My Time
 
