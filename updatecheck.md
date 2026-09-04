@@ -25,7 +25,7 @@
 - [x] Get Actorvalue Percentage - fix
 - [x] Critical Hit Tweaks
 - [x] Styyx Hit Effects
-- [ ] Effect Animation Framework
+- [x] Effect Animation Framework
 - [x] Learn Spells from Staves
 - [ ] FART
 - [x] Difficulty Global Variable
