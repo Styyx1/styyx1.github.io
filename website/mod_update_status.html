@@ -26,17 +26,37 @@
   </button>
   <ul id="gen-menu"><li><a href="index.html">Home</a></li><li>
         <a href="#">Docs <span class="gen-arrow">▾</span></a>
-        <ul><li><a href="Keybinds.html">Keybinds</a></li><li><a href="Config.html">Config</a></li></ul>
+        <ul>
+          <li><a href="Keybinds.html">Keybinds</a></li>
+          <li><a href="Config.html">Config</a></li>
+          <li><a href="mod_update_status.html">Mod Update Status</a></li></ul>
       </li></ul>
 </nav>
    
  <header>
-  <h1>Keybinds</h1>
+  <h1>Mod Update Status</h1>
  </header>
 
-  <main>Main Content Area</main>
+  <main>
+              <md>
+# Markdown Support
+           
+           Awesomeness
+         </md>
+
+<a href="updatecheck.md" onclick="renderMarkdown(); return false;">
+    Render Markdown
+</a>        
+  </main>
 
   <footer>Footer</footer>
    
   </body>
+  <script>
+function renderMarkdown(updatecheck) {
+    console.log(updatecheck);
+}
+</script>
+        <script src="https://cdn.jsdelivr.net/gh/MarketingPipeline/Markdown-Tag/markdown-tag.js"></script> 
+       <script src="https://cdn.jsdelivr.net/gh/MarketingPipeline/Markdown-Tag/markdown-tag-GitHub.js"></script> 
 </html>
