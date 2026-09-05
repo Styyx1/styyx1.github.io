@@ -33,7 +33,7 @@
 - [ ] sTweaks
 - [x] Bows Can Break
 - [ ] Save Restrictions
-- [ ] Stressful Darkness
+- [x] Stressful Darkness
 - [ ] Prevent Overabundance of Plunder
 - [x] Invisible Rune Explosion Fix
 - [ ] Mark of Akatosh
