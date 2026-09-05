@@ -17,7 +17,7 @@
 - [ ] Ring of Sacrifice
 - [x] Container Weight Limit
 - [x] Exhausting Combat
-- [ ] Simple Timed Block
+- [x] Simple Timed Block
 - [ ] Navigation Restrictions
 - [x] Styyx Inventory Limits
 - [ ] Lurking Menace 
