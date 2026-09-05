@@ -32,7 +32,7 @@
 - [ ] Resurrection API
 - [ ] sTweaks
 - [x] Bows Can Break
-- [ ] Save Restrictions
+- [x] Save Restrictions
 - [x] Stressful Darkness
 - [ ] Prevent Overabundance of Plunder
 - [x] Invisible Rune Explosion Fix
