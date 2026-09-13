@@ -34,13 +34,12 @@
 - [x] Bows Can Break
 - [x] Save Restrictions
 - [x] Stressful Darkness
-- [ ] Prevent Overabundance of Plunder
+- [x] Prevent Overabundance of Plunder
 - [x] Invisible Rune Explosion Fix
 - [ ] Mark of Akatosh
 - [x] Remove Orphaned Hazards
 - [ ] Regen Adjuster
 - [x] Regular Quicksave
-- [ ] Switch Combat View
 - [ ] Show My Time
 
 ## Collab SKSE Plugins
