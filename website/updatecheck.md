@@ -18,7 +18,7 @@
 - [x] Container Weight Limit
 - [x] Exhausting Combat
 - [x] Simple Timed Block
-- [ ] Navigation Restrictions
+- [x] Navigation Restrictions
 - [x] Styyx Inventory Limits
 - [ ] Lurking Menace 
 - [x] Global Var Framework
