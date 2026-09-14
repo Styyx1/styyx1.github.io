@@ -20,7 +20,7 @@
 - [x] Simple Timed Block
 - [x] Navigation Restrictions
 - [x] Styyx Inventory Limits
-- [ ] Lurking Menace 
+- [x] Lurking Menace 
 - [x] Global Var Framework
 - [x] Get Actorvalue Percentage - fix
 - [x] Critical Hit Tweaks
