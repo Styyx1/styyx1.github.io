@@ -40,7 +40,7 @@
 - [x] Remove Orphaned Hazards
 - [ ] Regen Adjuster
 - [x] Regular Quicksave
-- [ ] Show My Time
+- [x] Show My Time
 
 ## Collab SKSE Plugins
 
